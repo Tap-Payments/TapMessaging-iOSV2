@@ -1,1 +1,2 @@
-# TapMessaging-iOSV2
+# TapMessaging-iOS
+Helper library to manager Message/Mail compose controllers
